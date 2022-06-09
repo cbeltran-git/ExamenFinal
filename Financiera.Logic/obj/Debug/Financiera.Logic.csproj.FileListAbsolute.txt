@@ -1,0 +1,17 @@
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\Financiera.Logic.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\Financiera.Logic.pdb
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\EntityFramework.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\Financiera.Core.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\Financiera.Data.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\Financiera.Core.pdb
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\Financiera.Core.dll.config
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\Financiera.Data.pdb
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\Financiera.Data.dll.config
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\EntityFramework.xml
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\obj\Debug\Financiera.Logic.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\obj\Debug\Financiera.Logic.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\obj\Debug\Financiera.Logic.csproj.CopyComplete
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\obj\Debug\Financiera.Logic.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Logic\obj\Debug\Financiera.Logic.pdb

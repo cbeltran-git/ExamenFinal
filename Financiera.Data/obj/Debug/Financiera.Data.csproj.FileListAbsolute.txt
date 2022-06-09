@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\bin\Debug\Financiera.Data.dll.config
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\bin\Debug\Financiera.Data.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\bin\Debug\Financiera.Data.pdb
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\bin\Debug\EntityFramework.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\bin\Debug\Financiera.Core.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\bin\Debug\Financiera.Core.pdb
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\bin\Debug\Financiera.Core.dll.config
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\bin\Debug\EntityFramework.xml
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\obj\Debug\Financiera.Data.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\obj\Debug\Financiera.Data.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\obj\Debug\Financiera.Data.csproj.CopyComplete
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\obj\Debug\Financiera.Data.dll
+C:\Users\WINDOWS 10\Desktop\Clases Ciclo 4\Aplicaciones WEB\Nueva carpeta\ExamenFinal\Financiera.Data\obj\Debug\Financiera.Data.pdb

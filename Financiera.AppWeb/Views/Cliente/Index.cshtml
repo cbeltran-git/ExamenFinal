@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Financiera.Core.Cliente>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Listado de Clientes</h2>
+@using (Html.BeginForm())
+{
+<table class="table table-hover">
+    <thead>
+        <tr>Nombre</tr>
+        <tr>Dirección</tr>
+        <tr>Teléfono</tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Dirección</td>
+                <td>@item.Telefono</td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+
+}
